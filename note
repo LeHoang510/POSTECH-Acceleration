@@ -1,0 +1,29 @@
+Hoc lai CNN
+
+set learning rate tang dan thay vi chon cao ngay tu ban dau
+
+
+
+-Batch  gradient descent
+
+-Stochastic gradient descent (prefer in practice)?
+
+-Mini batch
+
+
+sgd thi gap van de neu hinh no
++ ngang
++ hinh nho ra nhu }
++ co nhieu diem cuc tieu
+
+trong thuc te dung them Momentum??
+
+OCam razor: the simplest solution tends to be the best one
+
+regulaziration
+
+dropout
+
+data augmentation => increase size or diversity of training set using transformation like rotation... 
+
+
